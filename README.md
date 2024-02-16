@@ -9,11 +9,11 @@ be activated. A given task can be activated multiple times, starting every time 
 running the selected routine. Before accepting a request for a new task, a response time
 analysis shall be carried out in order to assess the schedulability of the system.
 
-# Make targets
+## Make targets
 - **make server**: run the server
 - **make client**: run the client
 
-# Client commands
+## Client commands
 - help: print this help
 - quit: stop client connection
 - stop: force stop server connection
